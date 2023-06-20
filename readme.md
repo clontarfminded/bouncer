@@ -13,3 +13,5 @@ BOUNCER
   - The Tracks: The Recordings = the recordings themselves, made by artist, engineer, producer, arranger.
   - The Tracks: The Works = the songs themselves made by composer, lyricist.
 5. Various other credits at all levels
+
+### Would be cool to input a (UPC, metabrainzid, discogs id) and get structured data amalgamated from the various sources
